@@ -5,20 +5,20 @@ A:
 	It's merely defining ADDR to be the memory value pointed the addr ptr. 
 	The (volatile long *) inside is a type cast, and the * in left most is a
 	dereferencing operator. 
-
+---
 2. What is ```LOCK_PREFIX```(can be seen in many places including ```include/asm-i386/semaphore.h```)?
 
 A: (I)
 
 	Can be found in include/asm-i386/alternative.h, line 128. 
-
+---
 3. What does %0 mean in assembly instructions like ```asm("lea %0, %%eax")```?
 
 A:
 
 	Related with inline assembly. 
 	Check https://wiki.osdev.org/Inline_Assembly for details. 
-
+---
 4. What is inline assembly?
 
 A:
@@ -49,13 +49,13 @@ A:
 	There're also "constraints" used in the optional sections to specify
 	mappings between input/output variables with registers/memory, which can
 	also be found in the documentation at the link mentioned above.
-
+---
 5. What is ```outb_p``` instruction in Linux 8259A initialization?
 
 A:
 
 	See https://linux.die.net/man/2/outb_p "Description" section.
-
+---
 6. How to search file or text in files?
 
 A:
@@ -65,7 +65,7 @@ A:
 	example: find . -name code.c To search text in files, see
 	https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
 	Basic example: grep -r "hello world" *
-
+---
 7. How does read/write spinlock work? How does it allow multiple readers to obtain one lock? Note that rwlock_t is the same as spinlock_t in Linux implementation.
 
 A: 
@@ -90,7 +90,7 @@ A:
 		rwlock->rw_num++;
 		unlock_spinlock(rw->lock);
 	} // After this function, reader can perform reading tasks
-
+---
 8. What is a GIL(Global Interpreter Lock)? Is Python only able to run on one thread?
 
 A: 
@@ -106,7 +106,7 @@ A:
 	Python programs that base on CPython are single threaded by the GIL.  
 	But libraries like numpy, scipy, pytorch uses C-based implementation to
 	enable multi-threading.
-
+---
 9. What is a local label in x86(the ones start with a period)?
 
 A: 
@@ -114,7 +114,7 @@ A:
 	See https://www.tortall.net/projects/yasm/manual/html/nasm-local-label.html 
 
 	BTW what is NASM? Check @10.
-
+---
 10. What is NASM?
 
 A:
@@ -126,7 +126,7 @@ A:
 	It can be used to write 16-bit, 32-bit (IA-32) and 64-bit (x86-64)
 	programs.  
 	It is considered one of the most popular assemblers for Linux.
-
+---
 11. What is Little Endian?
 
 A:
@@ -143,7 +143,7 @@ A:
 	https://www.usna.edu/Users/ee/ives/_files/documents/EC310%20Memory%20Storage%20Example.pdf
 	Note that strings are not stored in the little endian way but instead first
 	char in the string will start at the lowest address.
-
+---
 12. Why assembly pushes C function parameters on stack from right to left?
 
 A:
@@ -155,7 +155,7 @@ A:
 	Thus the printf() function can always fetch the string to decide exactly
 	how many parameters are passed inside. 
 	However, in the other way(left to right), this is impossible. 
-
+---
 13. Why mode X of VGA is more popular in early time over the documented 256-color mode(mode 13h)?
 
 A: 
@@ -166,7 +166,7 @@ A:
 	the annoying flicker effects associated with showing a partially-drawn
 	image. 
 	This technique is called double-buffering.
-
+---
 14. Are multiple interrupts generated when holding a key on keyboard?
 
 A:
@@ -176,7 +176,7 @@ A:
 	In the period in between, a software keyboard repeat mechanism is used.
 	See
 	https://cs.stackexchange.com/questions/97108/are-multiple-interrupts-generated-when-i-hold-down-a-key-on-my-keyboard
-
+---
 15. What is segmentation?
 
 A: (i)
@@ -184,8 +184,7 @@ A: (i)
 	See https://wiki.osdev.org/Segment
 
 	I believe that segment and segmentation can be view as the same thing.
-
-
+---
 16. What is data structure alignment? How to disable compiler from doing so?
 
 A:
@@ -210,14 +209,14 @@ A:
 			int alpha;
 			char b;
 		} __attribute__((packed)) color;
-
+---
 17. How to generate an assembly file with compiler to get both C and assembly inside?
 
 A:
 
 	gcc -c -g -m32 -O0 test.c
 	objdump -d -S test.o > test.asm
-
+---
 18. How to avoid UB(undefined behavior) in compiler generated code?
 
 A:
@@ -230,7 +229,7 @@ A:
 	Use inline assembly(sometimes volatile is needed for inline assembly as
 	well).
 	Surely there're lots of more things to consider when trying to avoid UB.
-
+---
 19. What are three ways of memory addressing in 80x86 microprocessors? 
 
 A: 
@@ -260,8 +259,7 @@ A:
 
 	Note that in Intel manual and ECE 391 course, virtual memory refers to
 	logical address instead of linear address. 
-
-
+---
 20. What is a memory arbiter?
 
 A:
@@ -272,7 +270,7 @@ A:
 	Even uniprocessor systems use memory arbiters, because they include
 	specialized processors called DMA controllers that operate concurrently
 	with the CPU. 
-
+---
 21. What are serial ports?
 
 A:
@@ -310,7 +308,7 @@ A:
 	Most serial ports run in a duplex mode--that is, they can send and receive
 	simultaneously.
 	There are a few other pins, used for hardware handshaking.
-
+---
 21. What is an interrupt controller?
 
 A: 
@@ -319,7 +317,7 @@ A:
 	priorities.
 	The x86 has traditionally used Intel's 8259A Programmable Interrupt
 	Controller chip for this purpose.
-
+---
 22. What does the ```IRET``` instruction do?
 
 A:
@@ -327,7 +325,7 @@ A:
 	Returns program control from an exception or interrupt handler.
 	The control is returned to a program or procedure that was interrupted by
 	an exception, an external interrupt, or a software-generated interrupt.
-
+---
 23. There's a flag called ```IRQF_SAMPLE_DEVICE``` in ```irqflags``` parameter to the ```request_irq``` function(this function stores interrupt handler to interrupt vectors in IRQ descriptor table)?
 
 A:
@@ -342,7 +340,7 @@ A:
 	random number generation.
 	Use the time data being responsed by a device as a factor in random number
 	generation improves the quality of randomization. 
-
+---
 24. What are steps done in booting an OS kernel?
 
 A:
@@ -382,14 +380,14 @@ A:
 	The kernel then starts the first process, typically the user login page.
 	BIOS(on ROM) copies bootloader from disk to memory -> bootloader copies OS
 	kernel from disk to memory -> kernel initializes interrupts and so on. 
-
+---
 25. How to wrap a specific line in vim?
 
 A:
 
 	Just type 'gqq' in that line!
 	Use 'gqip' to wrap a whole paragraph.
-
+---
 26. What does a virtual filesystem(VFS) in Linux do(vaguely)?
 
 A:

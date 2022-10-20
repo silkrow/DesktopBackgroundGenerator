@@ -27,12 +27,12 @@ qa_indices = sample(range(len(qa_texts)), num_pics)
 voc_message = contents
 for i in range(num_pics):
 	qa_texts[qa_indices[i]]
-	img = Image.new('RGB', (width, height), color = 'black')
+	img = Image.new('RGB', (width, height), color = (238,232,170))
 
 	imgDraw = ImageDraw.Draw(img)
 
-	imgDraw.text((qa_x, qa_y), qa_texts[qa_indices[i]], font = qa_font,  fill=(255, 255, 255))
-	imgDraw.text((voc_x, voc_y), voc_message, font = voc_font,  fill=(255, 255, 255))
+	imgDraw.text((qa_x, qa_y), qa_texts[qa_indices[i]], font = qa_font,  fill=(0, 0, 0))
+	imgDraw.text((voc_x, voc_y), voc_message, font = voc_font,  fill=(0, 0, 0))
 
 	imgName = 'pic/'+ str(i) + '.png'
 	img.save(imgName)

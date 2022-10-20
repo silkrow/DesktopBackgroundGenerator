@@ -6,11 +6,11 @@ width = 1920
 height = 1080
 num_pics = 10
 qa_x = 100
-qa_y = 100
-voc_x = 800
-voc_y = 100
-qa_font = ImageFont.truetype("Monaco.ttf", size = 15)
-voc_font = ImageFont.truetype("Monaco.ttf", size = 15)
+qa_y = 50
+voc_x = 1100
+voc_y = 50
+qa_font = ImageFont.truetype("Optima.ttc", size = 24)
+voc_font = ImageFont.truetype("Optima.ttc", size = 20)
 
 # grab random QA
 with open('texts/QA.md') as f:

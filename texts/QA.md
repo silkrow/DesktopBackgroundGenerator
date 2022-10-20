@@ -403,10 +403,9 @@ A:
 
 	Virtual Filesystem is a kernel software layer that handles all system calls
 	related to a standard Unix filesystem.
-	It puts a wide range of information in the kernel to
-	represent many different types of filesystems; there is a field or function
-	to support each operation provided by all real filesystems supported by
-	Linux.
+	It puts a wide range of information in the kernel to represent many
+	different types of filesystems; there is a field or function to support
+	each operation provided by all real filesystems supported by Linux.
 	For each read, write, or other function called, the kernel substitutes the
 	actual function that supports a native Linux filesystem, the NTFS
 	filesystem, or whatever other filesys- tem the file is on.

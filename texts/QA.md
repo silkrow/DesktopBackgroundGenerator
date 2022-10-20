@@ -1,4 +1,5 @@
-1. In ```include/asm-i386/bitops.h```, what does line 19: ```#define ADDR (*(volatile long *) addr)``` do?
+1. In ```include/asm-i386/bitops.h```, what does line 19: ```#define ADDR
+(*(volatile long *) addr)``` do?
 
 A:
 
@@ -6,7 +7,8 @@ A:
 	The (volatile long *) inside is a type cast, and the * in left most is a
 	dereferencing operator. 
 ---
-2. What is ```LOCK_PREFIX```(can be seen in many places including ```include/asm-i386/semaphore.h```)?
+2. What is ```LOCK_PREFIX```(can be seen in many places including
+```include/asm-i386/semaphore.h```)?
 
 A: (I)
 
@@ -66,7 +68,9 @@ A:
 	https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
 	Basic example: grep -r "hello world" *
 ---
-7. How does read/write spinlock work? How does it allow multiple readers to obtain one lock? Note that rwlock_t is the same as spinlock_t in Linux implementation.
+7. How does read/write spinlock work? How does it allow multiple readers to
+obtain one lock? Note that rwlock_t is the same as spinlock_t in Linux
+implementation.
 
 A: 
 
@@ -91,7 +95,8 @@ A:
 		unlock_spinlock(rw->lock);
 	} // After this function, reader can perform reading tasks
 ---
-8. What is a GIL(Global Interpreter Lock)? Is Python only able to run on one thread?
+8. What is a GIL(Global Interpreter Lock)? Is Python only able to run on one
+thread?
 
 A: 
 	
@@ -156,7 +161,8 @@ A:
 	how many parameters are passed inside. 
 	However, in the other way(left to right), this is impossible. 
 ---
-13. Why mode X of VGA is more popular in early time over the documented 256-color mode(mode 13h)?
+13. Why mode X of VGA is more popular in early time over the documented
+256-color mode(mode 13h)?
 
 A: 
 
@@ -210,7 +216,8 @@ A:
 			char b;
 		} __attribute__((packed)) color;
 ---
-17. How to generate an assembly file with compiler to get both C and assembly inside?
+17. How to generate an assembly file with compiler to get both C and assembly
+inside?
 
 A:
 
@@ -326,7 +333,9 @@ A:
 	The control is returned to a program or procedure that was interrupted by
 	an exception, an external interrupt, or a software-generated interrupt.
 ---
-23. There's a flag called ```IRQF_SAMPLE_DEVICE``` in ```irqflags``` parameter to the ```request_irq``` function(this function stores interrupt handler to interrupt vectors in IRQ descriptor table)?
+23. There's a flag called ```IRQF_SAMPLE_DEVICE``` in ```irqflags``` parameter
+to the ```request_irq``` function(this function stores interrupt handler to
+interrupt vectors in IRQ descriptor table)?
 
 A:
 

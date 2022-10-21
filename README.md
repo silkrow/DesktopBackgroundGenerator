@@ -1,6 +1,9 @@
 # DesktopBackgroundGenerator
 Some scripts to generate my desktop background
 
+## How it looks
+[image](desktop.png)
+
 ## How to Use 
 1. Make sure you have python installed
 2. Install python library Pillow

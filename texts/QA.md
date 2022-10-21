@@ -185,7 +185,7 @@ A:
 ---
 15. What is segmentation?
 
-A: (i)
+A: (I)
 
 	See https://wiki.osdev.org/Segment
 
@@ -409,3 +409,7 @@ A:
 	For each read, write, or other function called, the kernel substitutes the
 	actual function that supports a native Linux filesystem, the NTFS
 	filesystem, or whatever other filesys- tem the file is on.
+---
+27. How does the networking of QEMU work?
+
+A: (I)

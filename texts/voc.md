@@ -1,4 +1,4 @@
-### 2022 Oct. 20
+### 2022 Oct. 21
 * felony
 	
 	A crime, typically one involving
@@ -34,7 +34,7 @@
 	House of Lords, and the House of
 	Commons.
 ---
-### 2022 Oct. 21
+### 2022 Oct. 22
 * cemetery
 
 	A burial ground; a graveyard.

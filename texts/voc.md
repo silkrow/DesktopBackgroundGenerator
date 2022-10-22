@@ -38,3 +38,26 @@
 * cemetery
 
 	A burial ground; a graveyard.
+
+* smuggle
+	
+	Move (goods) illegally into or out
+	of a country.
+
+* grenade
+
+	A small bomb thrown by hand or
+	launched mechanically.
+
+* chisel
+
+	A long-bladed hand tool with a
+	beveled cutting edge and a plain
+	handle that is struck with a hammer
+	or mallet, used to cut or shape
+	wood, stone, metal, or other hard
+	materials.
+* grind
+
+	reduce (something) to small
+	particles or powder by crushing it.

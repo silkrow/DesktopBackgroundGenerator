@@ -84,3 +84,30 @@
 
 	The arrangement of events or dates
 	in the order of their occurrence.
+---
+### 2022 Oct. 24
+* manacle
+	
+	A metal band, chain, or shackle for
+	fastening someone's hands or ankles.
+
+* moist
+
+	(of the eyes) Wet with tears.
+
+* trim 
+
+	Additional decoration, typically
+	along the edges of something and in
+	contrasting color or material.
+
+* socket
+
+	An electrical device receiving a
+	plug or light bulb to make a
+	connection.	
+
+* crust
+
+	The tough outer part of a loaf of
+	bread.

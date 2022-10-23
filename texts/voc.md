@@ -61,3 +61,26 @@
 
 	reduce (something) to small
 	particles or powder by crushing it.
+---
+### 2022 Oct. 23
+* escalate 
+	
+	Increase rapidly.
+
+* wimpy
+
+	Weak and cowardly or feeble.
+
+* mesmerizing
+
+	Capturing one's complete attention
+	as if by magic.
+
+* wage
+
+	Carry on (a war or campaign).
+
+* chronology
+
+	The arrangement of events or dates
+	in the order of their occurrence.

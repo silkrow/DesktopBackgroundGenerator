@@ -394,7 +394,7 @@ A:
 
 A:
 
-	Just type 'gqq' in that line!
+	Just type 'gqq' at that line!
 	Use 'gqip' to wrap a whole paragraph.
 ---
 26. What does a virtual filesystem(VFS) in Linux do(vaguely)?
@@ -413,3 +413,10 @@ A:
 27. How does the networking of QEMU work?
 
 A: (I)
+---
+28. What is SLiRP?
+
+A: (I)
+
+	A software program that emulates a PPP, SLIP, or CSLIP connection to the
+	Internet using a text-based shell account.

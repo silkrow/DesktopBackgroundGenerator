@@ -111,3 +111,22 @@
 
 	The tough outer part of a loaf of
 	bread.
+---
+### 2022 Oct. 25
+* placate
+
+	Make (someone) less angry or
+	hostile.
+
+* forensic
+
+	Relating to or denoting the
+	application of scientific methods
+	and techniques to the investigation
+	of crime.
+
+* miscellaneous
+
+	(of items or people gathered or
+	considered together) of various
+	types or from different sources.

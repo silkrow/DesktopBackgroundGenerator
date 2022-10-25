@@ -409,14 +409,4 @@ A:
 	For each read, write, or other function called, the kernel substitutes the
 	actual function that supports a native Linux filesystem, the NTFS
 	filesystem, or whatever other filesys- tem the file is on.
----
-27. How does the networking of QEMU work?
 
-A: (I)
----
-28. What is SLiRP?
-
-A: (I)
-
-	A software program that emulates a PPP, SLIP, or CSLIP connection to the
-	Internet using a text-based shell account.

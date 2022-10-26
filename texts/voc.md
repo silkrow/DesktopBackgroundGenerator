@@ -140,3 +140,5 @@
 
 	Anxious or fearful that something
 	bad or unpleasant will happen.
+---
+### 2022 Oct. 26

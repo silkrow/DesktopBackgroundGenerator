@@ -130,3 +130,13 @@
 	(of items or people gathered or
 	considered together) of various
 	types or from different sources.
+
+* daunt
+
+	Make (someone) feel intimidated or
+	apprehensive.
+
+* apprehensive
+
+	Anxious or fearful that something
+	bad or unpleasant will happen.

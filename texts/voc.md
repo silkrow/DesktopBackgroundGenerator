@@ -142,3 +142,22 @@
 	bad or unpleasant will happen.
 ---
 ### 2022 Oct. 26
+* attenuation
+
+	The reduction of the force, effect, or value of something.
+
+* intrude
+
+	Put oneself deliberately into a place or situation where one is unwelcome or uninvited.
+
+* twiddle 
+
+	Twist, move, or fiddle with (something), typically in a purposeless or nervous way.
+
+* symposium
+
+	A conference or meeting to discuss a particular subject.
+
+* inclict
+
+	Cause (something unpleasant or painful) to be suffered by someone or something.

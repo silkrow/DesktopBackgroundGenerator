@@ -144,20 +144,54 @@
 ### 2022 Oct. 26
 * attenuation
 
-	The reduction of the force, effect, or value of something.
+	The reduction of the force, effect,
+	or value of something.
 
 * intrude
 
-	Put oneself deliberately into a place or situation where one is unwelcome or uninvited.
+	Put oneself deliberately into a
+	place or situation where one is
+	unwelcome or uninvited.
 
 * twiddle 
 
-	Twist, move, or fiddle with (something), typically in a purposeless or nervous way.
+	Twist, move, or fiddle with
+	(something), typically in a
+	purposeless or nervous way.
 
 * symposium
 
-	A conference or meeting to discuss a particular subject.
+	A conference or meeting to discuss a
+	particular subject.
 
 * inclict
 
-	Cause (something unpleasant or painful) to be suffered by someone or something.
+	Cause (something unpleasant or
+	painful) to be suffered by someone
+	or something.
+---
+### 2022 Oct. 27
+
+* dwell
+
+	A slight regular pause in the motion
+	of a machine.
+
+* refutation
+
+	The action of proving a statement or
+	theory to be wrong or false.
+
+* apocalyptic
+
+	Describing or prophesying the
+	complete destruction of the world.
+
+* demolish
+
+	Pull or knock down (a building).	
+
+* hoof
+
+	The horny part of the foot of an
+	ungulate animal, especially a horse.

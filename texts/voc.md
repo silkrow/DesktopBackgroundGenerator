@@ -171,7 +171,6 @@
 	or something.
 ---
 ### 2022 Oct. 27
-
 * dwell
 
 	A slight regular pause in the motion
@@ -195,3 +194,33 @@
 
 	The horny part of the foot of an
 	ungulate animal, especially a horse.
+---
+### 2022 Oct. 28
+* integrity
+
+	The state of being whole and
+	undivided.
+
+* disclosure
+
+	The action of making new or secret
+	information known.
+	
+* deceive
+
+	(of a person) Cause (someone) to
+	believe something that is not true,
+	typically in order to gain some
+	personal advantage.
+
+* magenta
+
+	A color that is variously defined as
+	pinkish-purplish-red,
+	reddish-purplish-pink or
+	mauvish-crimson.
+
+* proposition
+
+	A statement or assertion that
+	expresses a judgment or opinion.

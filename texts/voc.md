@@ -224,3 +224,33 @@
 
 	A statement or assertion that
 	expresses a judgment or opinion.
+---
+### 2022 Oct. 29
+* cataract
+
+	A medical condition in which the
+	lens of the eye becomes
+	progressively opaque, resulting in
+	blurred vision.
+
+* liable
+
+	Responsible by law; legally
+	answerable.
+
+* beveled
+
+	Having a sloping edge rather than a
+	squared one.
+
+* prophesy
+
+	Say that (a specified thing) will
+	happen in the future.
+
+* philanthropy
+
+	The desire to promote the welfare of
+	others, expressed especially by the
+	generous donation of money to good
+	causes.

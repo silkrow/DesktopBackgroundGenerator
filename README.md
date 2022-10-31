@@ -27,6 +27,7 @@ My text location settings for the desktop image are kinda personal, you'd probab
 	width = 1920
 	height = 1080
 	num_pics = 10
+	num_vocs = 10
 	qa_x = 100
 	qa_y = 50
 	voc_x = 1100

@@ -254,3 +254,33 @@
 	others, expressed especially by the
 	generous donation of money to good
 	causes.
+---
+### 2022 Oct. 30
+* granular
+
+	Resembling or consisting of small
+	grains or particles.
+
+* alleviate
+
+	Make (suffering, deficiency, or a
+	problem) less severe.
+
+* inherit 
+
+	Receive (money, property, or a
+	title) as an heir at the death of
+	the previous holder.
+
+* purge
+
+	Rid (someone or something) of an
+	unwanted quality, condition, or
+	feeling.
+
+* permafrost
+
+	A thick subsurface layer of soil
+	that remains frozen throughout the
+	year, occurring chiefly in polar
+	regions.

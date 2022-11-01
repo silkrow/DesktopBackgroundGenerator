@@ -284,3 +284,28 @@
 	that remains frozen throughout the
 	year, occurring chiefly in polar
 	regions.
+---
+### 2022 Oct. 31
+* phantom
+	
+	A ghost
+
+* squash
+	
+	A state of being squeezed or forced
+	into a small or restricted space.
+
+* stipulate
+
+	Demand or specify (a requirement),
+	typically as part of a bargain or
+	agreement.
+
+* partisan
+	
+	A strong supporter of a party,
+	cause, or person.
+
+* vitriol
+
+	Cruel and bitter criticism.

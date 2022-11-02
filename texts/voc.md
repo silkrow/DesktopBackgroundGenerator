@@ -341,3 +341,39 @@
 
 	The practice of eating the flesh of
 	one's own species.
+---
+### 2022 Nov. 2
+* blast
+
+	A destructive wave of highly
+	compressed air spreading outward
+	from an explosion.
+
+* plague
+
+	 Contagious bacterial disease
+	 characterized by fever and
+	 delirium, typically with the
+	 formation of buboes ( bubonic
+	 plague ) and sometimes infection of
+	 the lungs ( pneumonic plague ).
+
+* drift
+
+	The general intention or meaning of
+	an argument or someone's remarks.
+	example: You catch my drift?
+
+* tweezers
+
+	A small instrument like a pair of
+	pincers for plucking out hairs and
+	picking up small objects.
+
+* pincer
+
+	A tool made of two pieces of metal
+	with blunt concave jaws that are
+	arranged like the blades of
+	scissors, used for gripping and
+	pulling things.

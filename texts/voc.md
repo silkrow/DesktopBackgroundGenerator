@@ -309,3 +309,35 @@
 * vitriol
 
 	Cruel and bitter criticism.
+---
+### 2022 Nov. 1
+* fatigue
+
+	A feeling of constant tiredness or
+	weakness and can be physical, mental
+	or a combination of both.
+
+* anecdotal
+
+	(of an account) Not necessarily true
+	or reliable, because based on
+	personal accounts rather than facts
+	or research.
+
+* apprentice
+
+	A person who is learning a trade
+	from a skilled employer, having
+	agreed to work for a fixed period at
+	low wages.
+
+* pamphlet
+
+	A small booklet or leaflet
+	containing information or arguments
+	about a single subject.
+
+* cannibalism
+
+	The practice of eating the flesh of
+	one's own species.

@@ -377,3 +377,24 @@
 	arranged like the blades of
 	scissors, used for gripping and
 	pulling things.
+---
+### 2022 Nov. 3
+* diabetes
+	
+	A disease in which the body’s
+	ability to produce or respond to the
+	hormone insulin is impaired,
+	resulting in abnormal metabolism of
+	carbohydrates and elevated levels of
+	glucose in the blood and urine.
+
+* glucose
+
+	A simple sugar which is an important
+	energy source in living organisms
+	and is a component of many
+	carbohydrates.
+
+* carbohydrate
+
+	[Easy to guess]

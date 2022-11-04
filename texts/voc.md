@@ -408,3 +408,34 @@
 
 	A young child who is just beginning
 	to walk.
+---
+### 2022 Nov. 4
+* girdle
+
+	A belt or cord worn around the waist.
+
+* distrophy
+
+	A disorder in which an organ or
+	tissue of the body wastes away.
+
+* muscular distrophy
+
+	A group of genetic diseases that
+	cause progressive weakness and loss
+	of muscle mass.
+
+* manifestation
+	
+	An event, action, or object that
+	clearly shows or embodies something,
+	especially a theory or an abstract
+	idea.
+
+* paralysis
+
+	The loss of the ability to move (and
+	sometimes to feel anything) in part
+	or most of the body, typically as a
+	result of illness, poison, or
+	injury.

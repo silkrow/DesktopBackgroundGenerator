@@ -398,3 +398,13 @@
 * carbohydrate
 
 	[Easy to guess]
+
+* asset
+
+	A useful or valuable thing, person,
+	or quality.
+
+* toddler
+
+	A young child who is just beginning
+	to walk.

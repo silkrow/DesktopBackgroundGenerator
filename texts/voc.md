@@ -439,3 +439,35 @@
 	or most of the body, typically as a
 	result of illness, poison, or
 	injury.
+---
+### 2022 Nov. 5
+* arthritis
+
+	Inflammation or swelling of one or
+	more joints.
+
+* rheumatism
+
+	Any disease marked by inflammation
+	and pain in the joints, muscles, or
+	fibrous tissue, especially
+	rheumatoid arthritis.
+
+* askew
+
+	Not in a straight or level position.
+
+* franchise
+
+	An authorization granted by a
+	government or company to an
+	individual or group enabling them to
+	carry out specified commercial
+	activities, e.g., providing a
+	broadcasting service or acting as an
+	agent for a company's products.
+
+* layoff
+
+	A discharge, especially temporary,
+	of a worker or workers.

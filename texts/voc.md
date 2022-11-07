@@ -471,3 +471,32 @@
 
 	A discharge, especially temporary,
 	of a worker or workers.
+---
+### 2022 Nov. 6
+* biome
+
+	A large naturally occurring
+	community of flora and fauna
+	occupying a major habitat, e.g.
+	forest or tundra.
+
+* tundra
+
+	A vast, flat, treeless Arctic region
+	of Europe, Asia, and North America
+	in which the subsoil is permanently
+	frozen.
+
+* sanction
+
+	A threatened penalty for disobeying
+	a law or rule.
+
+* wrench
+
+	Pull or twist (someone or something)
+	suddenly and violently.
+
+* forcibly
+
+	Using force or violence.

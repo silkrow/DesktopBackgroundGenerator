@@ -500,3 +500,91 @@
 * forcibly
 
 	Using force or violence.
+---
+### 2022 Nov. 7
+* sanity
+
+	The ability to think and behave in a
+	normal and rational manner; sound
+	mental health.
+
+* rubric
+
+	A heading on a document.
+
+* ditch
+
+	Get rid of or give up.
+
+* scrap
+
+	Discard or remove from service (a
+	retired, old, or inoperative
+	vehicle, vessel, or machine),
+	especially so as to convert it to
+	scrap metal.
+
+* propel
+	
+	Drive, push, or cause to move in a
+	particular direction, typically
+	forward.
+---
+### 2022 Nov. 8
+* nuisance
+
+	A person, thing, or circumstance
+	causing inconvenience or annoyance.
+
+* stellar
+
+	Relating to a star or stars.
+
+* synthesis
+
+	The combination of ideas to form a
+	theory or system.
+
+* flora
+
+	The plants of a particular region,
+	habitat, or geological period.
+
+* treatise
+
+	A written work dealing formally and
+	systematically with a subject.
+---
+### 2022 Nov. 9
+* quaternion
+
+	A complex number of the form w + xi
+	+ yj + zk, where w, x, y, z are real
+	numbers and i, j, k are imaginary
+	units that satisfy certain
+	conditions.
+
+* arbitrator
+
+	An independent person or body
+	officially appointed to settle a
+	dispute.
+
+* arbiter
+
+	A person who settles a dispute or
+	has ultimate authority in a matter.
+
+* synonym
+
+	A word or phrase that means exactly
+	or nearly the same as another word
+	or phrase in the same language, for
+	example shut is a synonym of close.
+
+* morpheme
+
+	A meaningful morphological unit of a
+	language that cannot be further
+	divided (e.g. in, come, -ing,
+	forming incoming ).

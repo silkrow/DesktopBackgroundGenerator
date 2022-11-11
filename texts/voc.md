@@ -588,3 +588,64 @@
 	language that cannot be further
 	divided (e.g. in, come, -ing,
 	forming incoming ).
+---
+### 2022 Nov. 10
+* mire
+
+	Cause to become stuck in mud.
+
+* capricious
+
+	Given to sudden and unaccountable
+	changes of mood or behavior.
+
+* garner
+
+	Gather or collect (something,
+	especially information or approval).
+
+* hormone
+
+	A regulatory substance produced in
+	an organism and transported in
+	tissue fluids such as blood or sap
+	to stimulate specific cells or
+	tissues into action.
+
+* crisp
+
+	(of a substance) Firm, dry, and
+	brittle, especially in a way
+	considered pleasing or attractive.
+---
+### 2022 Nov. 11
+* affiliate
+
+	Officially attach or connect (a
+	subsidiary group or a person) to an
+	organization.
+
+* imposter
+
+	A person who pretends to be someone
+	else in order to deceive others,
+	especially for fraudulent gain.
+
+* prestige
+
+	Widespread respect and admiration
+	felt for someone or something on the
+	basis of a perception of their
+	achievements or quality.
+
+* ransomware
+
+	A type of malicious software
+	designed to block access to a
+	computer system until a sum of money
+	is paid.
+
+* acrobatic
+
+	Performing, involving, or adept at
+	spectacular gymnastic feats.

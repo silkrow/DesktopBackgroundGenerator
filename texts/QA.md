@@ -409,4 +409,10 @@ A:
 	For each read, write, or other function called, the kernel substitutes the
 	actual function that supports a native Linux filesystem, the NTFS
 	filesystem, or whatever other filesys- tem the file is on.
+---
+27. How to view the regions in vm of a particular process in Linux?
 
+A:
+
+	cat /proc/<pid>/maps
+	An example is run cat /proc/self/maps for the shell process you're running.

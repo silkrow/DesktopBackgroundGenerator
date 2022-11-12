@@ -679,3 +679,8 @@
 	
 	A store where medicinal drugs are
 	dispensed and sold.	
+---
+### 2022 Nov. 13
+* administrivia
+
+	

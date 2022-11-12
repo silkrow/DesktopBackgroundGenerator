@@ -649,3 +649,33 @@
 
 	Performing, involving, or adept at
 	spectacular gymnastic feats.
+---
+### 2022 Nov. 12
+* polyester
+
+	A synthetic resin in which the
+	polymer units are linked by ester
+	groups, used chiefly to make
+	synthetic textile fibers.
+
+* resin
+
+	A sticky flammable organic
+	substance, insoluble in water,
+	exuded by some trees and other
+	plants (notably fir and pine).
+
+* matte
+
+	(of a color, paint, or surface) Dull
+	and flat; without a shine.
+
+* seamless
+	
+	(of a fabric or surface) Smooth and
+	without seams or obvious joins.
+
+* pharmacy
+	
+	A store where medicinal drugs are
+	dispensed and sold.	

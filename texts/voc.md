@@ -683,4 +683,27 @@
 ### 2022 Nov. 13
 * administrivia
 
-	
+	Routine paperwork and other
+	administrative tasks that are
+	regarded as trivial, uninteresting,
+	and time-consuming.
+
+* forfeit
+
+	Lose or be deprived of (property or
+	a right or privilege) as a penalty
+	for wrongdoing.
+
+* peculiar
+
+	Strange or odd; unusual.	
+
+* auction
+
+	A public sale in which goods or
+	property are sold to the highest
+	bidder.
+
+* resipration
+
+	The action of breathing.

@@ -726,4 +726,12 @@
 	especially one made to guide motion
 	or receive a corresponding ridge.
 
+* dictate
 
+	Say or read aloud (words to be
+	typed, written down, or recorded on
+	tape).
+
+* lessen
+
+	Make or become less; diminish.

@@ -416,3 +416,18 @@ A:
 
 	cat /proc/<pid>/maps
 	An example is run cat /proc/self/maps for the shell process you're running.
+---
+28. What is a PCI bus?
+
+A:
+	
+	The PCI (Peripheral Component Interconnect) bus was defined to establish a
+	high performance and low cost local bus that would remain through several
+	generations of products.
+	By combining a transparent upgrade path from 132 MB/s (32-bit at 33 MHz) to
+	528 MB/s (64-bit at 66 MHz) and both 5 volt and 3.3 volt signalling
+	environments, the PCI bus meets the needs of both low end desktop systems
+	and high-end LAN servers.
+	The disadvantage of the PCI bus is the limited number of electrical loads it
+	can drive. 
+	A single PCI bus can drive a maximum of 10 loads.

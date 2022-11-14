@@ -707,3 +707,23 @@
 * resipration
 
 	The action of breathing.
+---
+### 2022 Nov. 14
+* curator
+
+	A keeper or custodian of a museum or
+	other collection.
+
+* bezel
+
+	A grooved ring holding the glass or
+	plastic cover of a watch face or
+	other instrument in position.
+
+* groove
+
+	A long, narrow cut or depression,
+	especially one made to guide motion
+	or receive a corresponding ridge.
+
+

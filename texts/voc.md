@@ -735,3 +735,10 @@
 * lessen
 
 	Make or become less; diminish.
+---
+### 2022 Nov. 15
+* flurry
+
+	A small swirling mass of something,
+	especially snow or leaves, moved by
+	sudden gusts of wind.

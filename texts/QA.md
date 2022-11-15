@@ -185,7 +185,7 @@ A:
 ---
 15. What is segmentation?
 
-A: (I)
+A:
 
 	See https://wiki.osdev.org/Segment
 

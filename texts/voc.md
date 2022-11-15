@@ -742,3 +742,26 @@
 	A small swirling mass of something,
 	especially snow or leaves, moved by
 	sudden gusts of wind.
+
+* stagger
+
+	Astonish or deeply shock.
+
+* yacht
+
+	A medium-sized sailboat equipped for
+	cruising or racing.
+
+* coalition
+
+	An alliance for combined action,
+	especially a temporary alliance of
+	political parties forming a
+	government or of states.
+
+* contractor
+
+	A person or company that undertakes
+	a contract to provide materials or
+	labor to perform a service or do a
+	job.

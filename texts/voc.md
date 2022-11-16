@@ -765,3 +765,33 @@
 	a contract to provide materials or
 	labor to perform a service or do a
 	job.
+---
+### 2022 Nov. 16
+* heuristic
+	
+	Enabling someone to discover or
+	learn something for themselves.
+
+* ultimatum
+
+	A final demand or statement of
+	terms, the rejection of which will
+	result in retaliation or a breakdown
+	in relations.
+
+* sway
+
+	Rule; control.
+
+* potent
+
+	Having great power, influence, or
+	effect.
+
+* weevil
+	
+	A small beetle with an elongated
+	snout, the larvae of which typically
+	develop inside seeds, stems, or
+	other plant parts. Many are pests of
+	crops or stored foodstuffs.

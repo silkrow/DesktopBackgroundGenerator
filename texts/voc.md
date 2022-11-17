@@ -795,3 +795,31 @@
 	develop inside seeds, stems, or
 	other plant parts. Many are pests of
 	crops or stored foodstuffs.
+---
+### 2022 Nov. 17
+* ornament
+
+	A thing used to make something look
+	more attractive but usually having
+	no practical purpose, especially a
+	small object such as a figurine.
+
+* veteran
+
+	A person who has had long experience
+	in a particular field.
+
+* spike
+
+	A thin, pointed piece of metal,
+	wood, or another rigid material.
+
+* elongated
+
+	Long in relation to width,
+	especially unusually so.
+
+* snout 
+
+	The projecting nose and mouth of an
+	animal, especially a mammal.

@@ -431,3 +431,15 @@ A:
 	The disadvantage of the PCI bus is the limited number of electrical loads it
 	can drive. 
 	A single PCI bus can drive a maximum of 10 loads.
+---
+29. What is hardware context in context switching?
+
+A:
+
+	The set of data that must be loaded into the registers before the process
+	resumes its execution on the CPU is called the hardware context. 
+	The hardware context is a subset of the process execution context, which
+	includes all information needed for the process execution. 
+	In Linux, a part of the hardware context of a process is stored in the
+	process descriptor, while the remaining part is saved in the Kernel Mode
+	stack.

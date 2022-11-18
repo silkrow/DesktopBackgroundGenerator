@@ -329,9 +329,16 @@ A:
 
 A: (I)
 	See https://faydoc.tripod.com/cpu/iret.htm
-	Returns program control from an exception or interrupt handler to a program or procedure that was interrupted by an exception, an external interrupt, or a software-generated interrupt. 	
-	IRET is also used to perform a return from a nested task (A nested task is created when a CALL instruction is used to initiate a task switch or when an interrupt or exception causes a task switch to an interrupt or exception.)
-	In Protected Mode, the action of IRET instruction depends on the settings of the nested task and VM flags in the EFLAGS register and the VM flag in the EFLAGSl image stored on the current stack.
+	Returns program control from an exception or interrupt handler to a program
+	or procedure that was interrupted by an exception, an external interrupt,
+	or a software-generated interrupt. 	
+	IRET is also used to perform a return from a nested task (A nested task is
+	created when a CALL instruction is used to initiate a task switch or when
+	an interrupt or exception causes a task switch to an interrupt or
+	exception.)
+	In Protected Mode, the action of IRET instruction depends on the settings
+	of the nested task and VM flags in the EFLAGS register and the VM flag in
+	the EFLAGSl image stored on the current stack.
 ---
 23. There's a flag called ```IRQF_SAMPLE_DEVICE``` in ```irqflags``` parameter
 to the ```request_irq``` function(this function stores interrupt handler to

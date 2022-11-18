@@ -823,3 +823,31 @@
 
 	The projecting nose and mouth of an
 	animal, especially a mammal.
+---
+### 2022 Nov. 18
+* tow
+
+	(of a motor vehicle or boat) Pull
+	(another vehicle or boat) along with
+	a rope, chain, or tow bar.
+
+* anthology
+
+	A published collection of poems or
+	other pieces of writing.
+
+* terrain
+
+	A stretch of land, especially with
+	regard to its physical features.
+
+* envoy
+
+	A messenger or representative,
+	especially one on a diplomatic
+	mission.
+
+* diplomat
+
+	An official representing a country
+	abroad.

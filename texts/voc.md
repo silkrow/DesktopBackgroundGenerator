@@ -851,3 +851,16 @@
 
 	An official representing a country
 	abroad.
+---
+### 2022 Nov. 19
+* lore
+
+	A body of traditions and knowledge
+	on a subject or held by a particular
+	group, typically passed from person
+	to person by word of mouth.
+
+* ranch
+
+	A type of thick white salad dressing
+	made with sour cream or buttermilk.

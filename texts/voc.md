@@ -864,3 +864,50 @@
 
 	A type of thick white salad dressing
 	made with sour cream or buttermilk.
+
+* saga
+
+	A long story of heroic achievement,
+	especially a medieval prose
+	narrative in Old Norse or Old
+	Icelandic.
+
+* heyday
+
+	The period of a person's or thing's
+	greatest success, popularity, or
+	vigor.
+
+* buffalo
+
+	A heavily built wild ox with
+	backswept horns, found mainly in the
+	Old World tropics
+---
+### 2022 Nov. 20
+* bison
+	
+	A humpbacked shaggy-haired wild ox
+	native to North America and Europe.
+
+* manision
+
+	A large, impressive house.
+
+* conviction
+
+	A formal declaration that someone is
+	guilty of a criminal offense, made
+	by the verdict of a jury or the
+	decision of a judge in a court of
+	law.
+
+* amid
+
+	Surrounded by; in the middle of.
+		
+* rapturous
+
+	Characterized by, feeling, or
+	expressing great pleasure or
+	enthusiasm.

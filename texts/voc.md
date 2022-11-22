@@ -911,3 +911,39 @@
 	Characterized by, feeling, or
 	expressing great pleasure or
 	enthusiasm.
+---
+### 2022 Nov. 21
+* invoice
+
+	A list of goods sent or services
+	provided, with a statement of the
+	sum due for these; a bill.
+
+* spelt
+
+	An old kind of wheat with bearded
+	ears and spikelets that each contain
+	two narrow grains, not widely grown
+	but favored as a health food.
+
+* starch
+
+	An odorless, tasteless white
+	substance occurring widely in plant
+	tissue and obtained chiefly from
+	cereals and potatoes. It is a
+	polysaccharide which functions as a
+	carbohydrate store and is an
+	important constituent of the human
+	diet.
+
+* odor
+	
+	A distinctive smell, especially an
+	unpleasant one.
+
+* patty
+	
+	A small flat cake of minced or
+	finely chopped food, especially
+	meat.

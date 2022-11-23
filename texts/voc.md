@@ -975,3 +975,32 @@
 * gruesome
 
 	Causing repulsion or horror; grisly.
+---
+### 2022 Nov. 23
+* delirious	
+
+	In an acutely disturbed state of
+	mind resulting from illness or
+	intoxication and characterized by
+	restlessness, illusions, and
+	incoherence of thought and speech.
+
+* acutely
+
+	(with reference to something
+	unpleasant or unwelcome) Intensely.
+
+* taxidermy
+
+	The art of preparing, stuffing, and
+	mounting the skins of animals with
+	lifelike effect.
+
+* hospice
+
+	a home providing care for the sick
+	or terminally ill.
+
+* tint
+
+	A shade or variety of a color.

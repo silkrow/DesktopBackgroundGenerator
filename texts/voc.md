@@ -947,3 +947,31 @@
 	A small flat cake of minced or
 	finely chopped food, especially
 	meat.
+---
+### 2022 Nov. 22
+* epilogue
+
+	A section or speech at the end of a
+	book or play that serves as a
+	comment on or a conclusion to what
+	has happened.
+
+* renegade
+
+	A person who deserts and betrays an
+	organization, country, or set of
+	principles.
+
+* prosecute
+
+	Institute legal proceedings against
+	(a person or organization).
+
+* plummet
+
+	Fall or drop straight down at high
+	speed.
+
+* gruesome
+
+	Causing repulsion or horror; grisly.

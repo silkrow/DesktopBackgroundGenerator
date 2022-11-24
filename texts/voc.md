@@ -1004,3 +1004,36 @@
 * tint
 
 	A shade or variety of a color.
+---
+### 2022 Nov. 24
+* skirmish
+
+	An episode of irregular or
+	unpremeditated fighting, especially
+	between small or outlying parts of
+	armies or fleets.
+
+* husbandry
+
+	The care, cultivation, and breeding
+	of crops and animals.
+
+* pottery
+
+	Pots, dishes, and other articles
+	made of earthenware or baked clay.
+	Pottery can be broadly divided into
+	earthenware, porcelain, and
+	stoneware.
+
+* astrology
+
+	The study of the movements and
+	relative positions of celestial
+	bodies interpreted as having an
+	influence on human affairs and the
+	natural world.
+
+* masonry
+	
+	Stonework.

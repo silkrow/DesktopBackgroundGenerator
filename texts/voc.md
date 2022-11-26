@@ -1037,3 +1037,35 @@
 * masonry
 	
 	Stonework.
+---
+### 2022 Nov. 25
+* siege
+
+	A military operation in which enemy
+	forces surround a town or building,
+	cutting off essential supplies, with
+	the aim of compelling the surrender
+	of those inside.
+
+* premeditated
+
+	(of an action, especially a crime)
+	Thought out or planned beforehand.
+
+* aforementioned
+
+	Denoting a thing or person
+	previously mentioned.
+
+* merchant
+
+	A person or company involved in
+	wholesale trade, especially one
+	dealing with foreign countries or
+	supplying merchandise to a
+	particular trade.
+
+* wholesale
+
+	The selling of goods in large
+	quantities to be retailed by others.

@@ -1094,3 +1094,35 @@
 	Showing or giving emphasis;
 	expressing something forcibly and
 	clearly.
+---
+### 2022 Nov. 27
+* torque
+
+	A twisting force that tends to cause
+	rotation.
+
+* throttle
+
+	A device controlling the flow of
+	fuel or power to an engine.
+
+* curated
+
+	(of online content, merchandise,
+	information, etc.) Selected,
+	organized, and presented using
+	professional or expert knowledge.
+
+* boycott
+
+	Withdraw from commercial or social
+	relations with (a country,
+	organization, or person) as a
+	punishment or protest.
+
+* diplomacy
+	
+	The profession, activity, or skill
+	of managing international relations,
+	typically by a country's
+	representatives abroad.

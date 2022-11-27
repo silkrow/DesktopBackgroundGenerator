@@ -1069,3 +1069,28 @@
 
 	The selling of goods in large
 	quantities to be retailed by others.
+---
+### 2022 Nov. 26
+* sclerosis
+
+	Abnormal hardening of body tissue.	
+
+* splatter
+
+	Splash with a sticky or viscous
+	liquid.
+
+* condiment
+
+	a substance such as salt or ketchup
+	that is used to add flavor to food.
+
+* resounding
+
+	Unmistakable; emphatic.
+
+* emphatic
+
+	Showing or giving emphasis;
+	expressing something forcibly and
+	clearly.

@@ -1126,3 +1126,45 @@
 	of managing international relations,
 	typically by a country's
 	representatives abroad.
+---
+### 2022 Nov. 28
+* unrest
+
+	A state of dissatisfaction,
+	disturbance, and agitation in a
+	group of people, typically involving
+	public demonstrations or disorder.
+
+* agitation
+
+	A state of anxiety or nervous
+	excitement.
+
+* pare
+
+	Trim (something) by cutting away its
+	outer edges.
+
+* shed
+
+	(of a tree or other plant) Allow
+	(leaves or fruit) to fall to the
+	ground.
+
+* ticker
+
+	A telegraphic or electronic machine
+	that prints out data on a strip of
+	paper, especially stock market
+	information or news reports.
+---
+### 2022 Nov. 28
+* woe
+
+	Great sorrow or distress.
+
+* caret
+
+	A mark "^" placed below the line to
+	indicate a proposed insertion in a
+	printed or written text.

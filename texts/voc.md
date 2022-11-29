@@ -1158,7 +1158,7 @@
 	paper, especially stock market
 	information or news reports.
 ---
-### 2022 Nov. 28
+### 2022 Nov. 29
 * woe
 
 	Great sorrow or distress.
@@ -1168,3 +1168,20 @@
 	A mark "^" placed below the line to
 	indicate a proposed insertion in a
 	printed or written text.
+
+* diversify
+
+	Make or become more diverse or
+	varied.
+
+* turmoil
+
+	A state of great disturbance,
+	confusion, or uncertainty.
+
+* retail
+
+	The sale of goods to the public in
+	relatively small quantities for use
+	or consumption rather than for
+	resale.

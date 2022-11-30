@@ -1185,3 +1185,30 @@
 	relatively small quantities for use
 	or consumption rather than for
 	resale.
+---
+### 2022 Nov. 30
+* propulsion
+	
+	The action of driving or pushing
+	forward.
+
+* plumb
+
+	Test (an upright surface) to
+	determine the vertical.
+
+* tout
+
+	Attempt to sell (something),
+	typically by pestering people in an
+	aggressive or bold manner.
+
+* lackluster
+
+	Lacking in vitality, force, or
+	conviction; uninspired or
+	uninspiring.
+
+* encircle
+
+	Form a circle around; surround.

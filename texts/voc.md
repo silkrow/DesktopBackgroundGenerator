@@ -1240,3 +1240,32 @@
 * solemn
 
 	Formal and dignified.
+---
+### 2022 Dec. 2
+* gaslight
+
+	Manipulate (someone) by
+	psychological means into questioning
+	their own sanity.
+
+* sanity 
+
+	The ability to think and behave in a
+	normal and rational manner; sound
+	mental health.
+
+* curb
+
+	A stone or concrete edging to a
+	street or path.
+
+* accommodation
+
+	A convenient arrangement; a
+	settlement or compromise.
+
+* spout
+
+	A tube or lip projecting from a
+	container, through which liquid can
+	be poured.

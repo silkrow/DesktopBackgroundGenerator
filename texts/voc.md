@@ -1212,3 +1212,31 @@
 * encircle
 
 	Form a circle around; surround.
+---
+### 2022 Dec. 1
+* preclude
+
+	Prevent from happening; make
+	impossible.
+
+* kiosk
+
+	A small open-fronted hut or cubicle
+	from which newspapers, refreshments,
+	tickets, etc., are sold.
+
+* cubicle
+
+	A small partitioned-off area of a
+	room, for example one containing a
+	bed in a dwelling or one containing
+	a desk in an office.
+
+* vow
+
+	Solemnly promise to do a specified
+	thing.
+
+* solemn
+
+	Formal and dignified.

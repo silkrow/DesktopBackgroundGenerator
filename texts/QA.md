@@ -450,3 +450,17 @@ A:
 	In Linux, a part of the hardware context of a process is stored in the
 	process descriptor, while the remaining part is saved in the Kernel Mode
 	stack.
+---
+30. What is NIC?
+
+A: 	
+	
+	NIC stands for Network Interface Card.
+	It's a hardware component, typically a circuit board or chip, which is
+	installed on a computer so it can connect to a network. 
+	Modern NICs provide functionality to computers, such as support for I/O
+	interrupt, direct memory access (DMA) interfaces, data transmission,
+	network traffic engineering and partitioning.
+	The network card operates as a middleman between a computer and a data
+	network, when a user requests a webpage, the computer will pass the request
+	to the network card, which converts it into electrical impulses.

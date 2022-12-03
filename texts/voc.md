@@ -1269,3 +1269,30 @@
 	A tube or lip projecting from a
 	container, through which liquid can
 	be poured.
+---
+### 2022 Dec. 3
+* netizen
+
+	A user of the internet, especially a
+	habitual or avid one.
+
+* swamp
+
+	Overwhelm or flood with water.
+
+* hallucinate
+	
+	Experience a seemingly real
+	perception of something not actually
+	present, typically as a result of a
+	mental disorder or of taking drugs.
+
+* fidget
+	
+	Make small movements, especially of
+	the hands and feet, through
+	nervousness or impatience.
+
+* havoc
+
+	Widespread destruction.

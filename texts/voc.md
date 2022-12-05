@@ -1296,3 +1296,33 @@
 * havoc
 
 	Widespread destruction.
+---
+### 2022 Dec. 4
+* thawing
+
+	The process of ice, snow, or another
+	frozen substance becoming liquid or
+	soft as a result of warming up.
+
+* domestric
+	
+	Existing or occurring inside a
+	particular country; not foreign or
+	international.
+
+* shrub
+
+	A woody plant which is smaller than
+	a tree and has several main stems
+	arising at or near the ground.
+
+* combustion
+
+	The process of burning something.
+
+* gerund
+
+	A form that is derived from a verb
+	but that functions as a noun, in
+	English ending in -ing, e.g., asking
+	in do you mind my asking you?

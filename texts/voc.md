@@ -1326,3 +1326,31 @@
 	but that functions as a noun, in
 	English ending in -ing, e.g., asking
 	in do you mind my asking you?
+---
+### 2022 Dec. 5
+* abysmal
+
+	Extremely bad; appalling.
+
+* syrup
+
+	A thick sweet liquid made by
+	dissolving sugar in boiling water,
+	often used for preserving fruit.
+
+* marsh
+
+	An area of low-lying land which is
+	flooded in wet seasons or at high
+	tide, and typically remains
+	waterlogged at all times.	
+
+* doom
+
+	Condemn to certain destruction or
+	death.
+
+* condemn	
+	
+	Sentence (someone) to a particular
+	punishment, especially death.

@@ -1383,3 +1383,31 @@
 * bony
 
 	Of or like bone.
+---
+### 2022 Dec. 7
+* reluctant
+
+	Unwilling and hesitant; disinclined.
+
+* rife
+
+	(especially of something undesirable
+	or harmful) Of common occurrence;
+	widespread.
+
+* unorthodox
+
+	Contrary to what is usual,
+	traditional, or accepted; not
+	orthodox.
+
+* hallmark
+	
+	A mark stamped on articles of gold,
+	silver, or platinum in Britain,
+	certifying their standard of purity.
+
+* quibble
+
+	Argue or raise objections about a
+	trivial matter.

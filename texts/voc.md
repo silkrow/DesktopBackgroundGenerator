@@ -1411,3 +1411,32 @@
 
 	Argue or raise objections about a
 	trivial matter.
+---
+### 2022 Dec. 8
+* aberration
+
+	A departure from what is normal,
+	usual, or expected, typically one
+	that is unwelcome.
+
+* meddle
+
+	Interfere in or busy oneself unduly
+	with something that is not one's
+	concern.
+
+* transcendent
+	
+	Beyond or above the range of normal
+	or merely physical human
+	experience.
+
+* insatiable
+
+	(of an appetite or desire)
+	Impossible to satisfy.
+
+* pope
+
+	The Bishop of Rome as head of the
+	Roman Catholic Church.

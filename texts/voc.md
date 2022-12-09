@@ -1440,3 +1440,28 @@
 
 	The Bishop of Rome as head of the
 	Roman Catholic Church.
+---
+### 2022 Dec. 9
+* warp
+
+	Become or cause to become bent or
+	twisted out of shape, typically as a
+	result of the effects of heat or
+	dampness.
+
+* loom
+
+	An apparatus for making fabric by
+	weaving yarn or thread.
+
+* ruse
+	An action intended to deceive
+	someone; a trick.
+* nauseous
+	Affected with nausea; inclined to
+	vomit.
+* vault
+	A roof in the form of an arch or a
+	series of arches, typical of
+	churches and other large, formal
+	buildings.

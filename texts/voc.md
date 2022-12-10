@@ -1455,13 +1455,49 @@
 	weaving yarn or thread.
 
 * ruse
+
 	An action intended to deceive
 	someone; a trick.
+
 * nauseous
+
 	Affected with nausea; inclined to
 	vomit.
+
 * vault
+
 	A roof in the form of an arch or a
 	series of arches, typical of
 	churches and other large, formal
 	buildings.
+---
+### 2022 Dec. 10
+* cruncher
+
+	A computer, system, or person able
+	to perform operations of great
+	complexity or to process large
+	amounts of information.
+
+* elude
+
+	Evade or escape from (a danger,
+	enemy, or pursuer), typically in a
+	skillful or cunning way.
+
+* entrepreneur
+
+	A person who organizes and operates
+	a business or businesses, taking on
+	greater than normal financial risks
+	in order to do so.
+
+* webinar
+
+	A seminar conducted over the
+	internet.
+
+* disperse
+	
+	Distribute or spread over a wide
+	area.

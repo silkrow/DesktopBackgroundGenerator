@@ -1501,3 +1501,32 @@
 	
 	Distribute or spread over a wide
 	area.
+---
+### 2022 Dec. 11
+* rasp
+
+	A harsh, grating noise.
+
+* grating
+	
+	Sounding harsh and unpleasant.
+
+* quash
+	
+	Reject or void, especially by legal
+	procedure.
+
+* petition
+
+	A formal written request, typically
+	one signed by many people, appealing
+	to authority with respect to a
+	particular cause.
+
+* lavender
+
+	A small aromatic evergreen shrub of
+	the mint family, with narrow leaves
+	and bluish-purple flowers. Lavender
+	has been widely used in perfumery
+	and medicine since ancient times.

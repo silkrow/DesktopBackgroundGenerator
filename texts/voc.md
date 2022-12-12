@@ -1530,3 +1530,31 @@
 	and bluish-purple flowers. Lavender
 	has been widely used in perfumery
 	and medicine since ancient times.
+---
+### 2022 Dec. 12
+* defer
+
+	Put off (an action or event) to a
+	later time; postpone.
+
+* memorandum
+
+	A written message in business or
+	diplomacy.
+
+* diesel
+
+	An internal combustion engine in
+	which heat produced by the
+	compression of air in the cylinder
+	is used to ignite the fuel.
+
+* gasoline
+
+	Refined petroleum used as fuel for
+	internal combustion engines.
+
+* mercenary
+	
+	Primarily concerned with making
+	money at the expense of ethics.

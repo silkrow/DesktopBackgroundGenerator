@@ -1558,3 +1558,34 @@
 	
 	Primarily concerned with making
 	money at the expense of ethics.
+---
+### 2022 Dec. 13
+* contemplate
+
+	Look thoughtfully for a long time
+	at.
+
+* tiara
+
+	A jeweled ornamental band worn on
+	the front of a woman's hair.
+
+* rake
+
+	Collect, gather, or move with a rake
+	or similar implement.
+
+* toll
+	
+	The number of deaths, casualties, or
+	injuries arising from particular
+	circumstances, such as a natural
+	disaster, conflict, or accident.
+
+* dongle
+
+	A small device able to be connected
+	to and used with a computer,
+	especially to allow access to
+	wireless broadband or use of
+	protected software.

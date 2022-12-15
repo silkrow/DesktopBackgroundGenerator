@@ -1589,3 +1589,33 @@
 	especially to allow access to
 	wireless broadband or use of
 	protected software.
+---
+### 2022 Dec. 14
+* sterilized
+
+	(of a person or animal) Deprived of
+	the ability to produce offspring,
+	typically by removing or blocking
+	the sex organs.
+
+* revolt
+
+	Rise in rebellion.
+
+* moot
+
+	Having little or no practical
+	relevance, typically because the
+	subject is too uncertain to allow a
+	decision.
+
+* force majeure
+
+	Unforeseeable circumstances that
+	prevent someone from fulfilling a
+	contract.
+
+* wit
+
+	Mental sharpness and inventiveness;
+	keen intelligence.

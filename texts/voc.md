@@ -1619,3 +1619,28 @@
 
 	Mental sharpness and inventiveness;
 	keen intelligence.
+---
+### 2022 Dec. 15
+* savor 
+
+	Taste (good food or drink) and enjoy
+	it completely.
+
+* prestigious
+
+	Inspiring respect and admiration;
+	having high status.
+
+* incentive
+
+	A thing that motivates or encourages
+	one to do something.
+
+* foremost
+
+	Most prominent in rank, importance,
+	or position.
+
+* prominent
+
+	Important; famous.
